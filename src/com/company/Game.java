@@ -27,6 +27,7 @@ class Main extends Canvas implements Runnable {
         kadras.setLocationRelativeTo(null);
         kadras.setVisible(true);
 
+        //testing
 
     }
 
